@@ -12,7 +12,7 @@ A fully customizable web-based QR Code generator built using HTML, CSS, and Java
 
 ## Live Demo
 
-[Check out the live demo here](#)
+[Check out the live demo here]( https://praveen-kumar-404.github.io/Web-Tech-QR-Genrator/)
 
 ## Installation
 
